@@ -1,6 +1,6 @@
 # Stock Data ETL Pipeline
 
-**An automated ETL pipeline for stock price data using Apache Airflow and the Alpha Vantage API.**
+**An automated ETL pipeline for Stock Ticker data using Apache Airflow and the Alpha Vantage API.**
 
 ---
 
@@ -86,4 +86,5 @@ This will spin up Airflow and its components. You can access the Airflow UI at h
 
 ## Logging & Volumes
 - The logs/ directory in your project root will automatically be created when Docker runs (if it doesn’t already exist). Airflow writes execution logs into /opt/airflow/logs, which in turn appear in your logs/ local directory—even though logs are .gitignored, they’re accessible locally.
+
 
