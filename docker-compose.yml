@@ -53,7 +53,7 @@ services:
     depends_on:
       - postgres
 
-networks:   # ✅ fixed indentation
+networks:
   etl_net:
 
 volumes:
