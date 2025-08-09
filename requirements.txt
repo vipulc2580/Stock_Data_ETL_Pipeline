@@ -1,0 +1,5 @@
+requests
+python-decouple
+pydantic 
+aiohttp 
+psycopg2-binary

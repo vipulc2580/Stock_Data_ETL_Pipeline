@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.swp
+
+# Mac OS files
+.DS_Store
+
+# If you create any local SQLite DB files
+*.db

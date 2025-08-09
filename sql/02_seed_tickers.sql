@@ -1,0 +1,14 @@
+INSERT INTO tickers (symbol, exchange, is_active)
+VALUES
+('RELIANCE.BO', 'BSE', TRUE),
+('HDFCBANK.BO', 'BSE', TRUE),
+('TCS.BO', 'BSE', TRUE),
+('BHARTIARTL.BO', 'BSE', TRUE),
+('ICICIBANK.BO', 'BSE', TRUE),
+('SBIN.BO', 'BSE', TRUE),
+('INFY.BO', 'BSE', TRUE),
+('HINDUNILVR.BO', 'BSE', TRUE),
+('LIC.BO', 'BSE', TRUE),
+('BAJFINANCE.BO', 'BSE', TRUE),
+('IOC.BO', 'BSE', TRUE),
+('IDFCFIRSTB.BO', 'BSE', TRUE);
